@@ -1,6 +1,6 @@
 @font-face {
     font-family: "unbounded";
-    src: url(../fontes/Unbounded-VariableFont_wght.ttf) format(truetype);
+    src: url(./fontes/Unbounded-VariableFont_wght.ttf) format(truetype);
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "poppins";
-    src: url(../fontes/Poppins-Regular.ttf) format(truetype);
+    src: url(./fontes/Poppins-Regular.ttf) format(truetype);
     font-weight: 400;
     font-style: normal;
     font-display: swap;
